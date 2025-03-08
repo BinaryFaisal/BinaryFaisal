@@ -45,14 +45,13 @@
 
 ###
 
-[![Codeforces Stats](https://codeforces-readme-stats.vercel.app/api/card?username=FaisalAhammod&theme=darcula&disable_animations=false&show_icons=true&force_username=true)](https://codeforces.com/profile/FaisalAhammod)
-
-###
-
 <div align="center">
-  <img src="https://codeforces-readme-stats.vercel.app/api/card?username=FaisalAhammod&theme=dracula&hide_border=true" />
+  <a href="https://codeforces.com/profile/FaisalAhammod" target="_blank">
+    <img src="https://codeforces-readme-stats.vercel.app/api/card?username=FaisalAhammod&theme=dracula&hide_border=true" />
+  </a>
+  <!-- ![Leetcode Stats](https://leetcard.jacoblin.cool/<user_name>) -->
 </div>
-<!-- ![Leetcode Stats](https://leetcard.jacoblin.cool/<user_name>) -->
+
 
 ###
 
